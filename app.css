@@ -3,6 +3,7 @@ body {
     font-family: "Nunito", sans-serif;
 }
 
+
 .blurb h2 {
     color:#ea1c2c;
     font-weight: 100;
@@ -10,10 +11,11 @@ body {
 }
 
 .blurb p {
-    color:blanchedalmond;
-    font-weight: 50;
-    font-size: 0.875em;
+    color:rgba(114, 4, 4, 0.988);
+    font-weight: 100;
+    font-size: 18px;
     line-height: 2;
+    font-family: Cambria;
 }
 .content {
     margin-top: 100px;
